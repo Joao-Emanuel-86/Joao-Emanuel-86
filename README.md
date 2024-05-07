@@ -1,4 +1,4 @@
-
+[![wakatime](https://wakatime.com/badge/user/018e1669-7977-4b91-8b7a-71b7db5474e4.svg)](https://wakatime.com/@018e1669-7977-4b91-8b7a-71b7db5474e4)
 <!--
 **Joao-Emanuel-86/Joao-Emanuel-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
